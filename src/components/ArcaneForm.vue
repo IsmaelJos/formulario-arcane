@@ -23,7 +23,6 @@
                 <div>
                     <label for="missionFulfilled">Misión cumplida:</label>
                     <input type="checkbox" class="input" v-model="missionFulfilled" id="missionFulfilled">
-                    <label for="missionFulfilled">Sí</label>
                 </div>
             </div>
             <div>
