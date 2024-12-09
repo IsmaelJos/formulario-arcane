@@ -1,24 +1,31 @@
-# formulario-arcane
+# Formulario-arcane
 
-## Project setup
-```
-npm install
-```
+Se ha mandado la creacion de un formulario que cree una lista de personajes y sus cualidades usando VUE
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Creacion del Trabajo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img src="./images/Captura1.PNG">
 
-### Lints and fixes files
-```
-npm run lint
-```
+Uso de VUE 3 Default
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="./images/Captura2.PNG">
+
+<img src="./images/Captura3.PNG">
+
+<img src="./images/Captura4.PNG">
+
+## Creacion del Componente solicitado
+
+### Parte 1: Creacion de un formulario en el que se inserten los datos
+
+<img src="./images/Captura5.PNG">
+
+### Parte 2: Creacion de la lista que mostrara slos personajes
+
+<img src="./images/Captura6.PNG">
+
+### Parte 3: creacion del script que permita el funcionamiento el formulario y la lista
+
+<img src="./images/Captura7.PNG">
+
+<img src="./images/Captura8.PNG">
