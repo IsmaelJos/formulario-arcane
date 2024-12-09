@@ -24,8 +24,15 @@ Uso de VUE 3 Default
 
 <img src="./images/Captura6.PNG">
 
-### Parte 3: creacion del script que permita el funcionamiento el formulario y la lista
+### Parte 3: Creacion del script que permita el funcionamiento el formulario y la lista
 
 <img src="./images/Captura7.PNG">
 
 <img src="./images/Captura8.PNG">
+
+### Parte 4: Correcto Funcionamiento
+
+<img src="./images/Captura9.png">
+
+<img src="./images/Captura10.png">
+
